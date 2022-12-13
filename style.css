@@ -75,11 +75,13 @@ section{
 }
 .home{
 	position: relative;
+	max-width: 530px;
+	border-radius: 8px;
 	height: 100vh;
-	width: 100%;
-	background-image: url(../img/background.jpg);
+	width: 50%;
+	background-image: url(background5\ img.jpg);
 	background-size: cover;
-	background-position: center;
+	background-position:right;
 	display: flex;
 	align-items: center;
 	justify-content: flex-start;
